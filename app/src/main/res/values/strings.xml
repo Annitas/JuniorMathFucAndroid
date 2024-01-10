@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JuniorMathFac</string>
+    <string name="profile_text">Profile</string>
 </resources>
