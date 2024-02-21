@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">JuniorMathFac</string>
+    <string name="profile_text">Profile</string>
+    <string name="create_room_button">Create Room</string>
+    <string name="statistics_button">Statistics</string>
+    <string name="tasks_button">Tasks</string>
+    <string name="rules_button">Rules</string>
+    <string name="user_name">Margarita</string>
+    <string name="user_surname">Konstantinopolskaya</string>
 </resources>
